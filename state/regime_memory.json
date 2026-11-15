@@ -24,11 +24,19 @@
       "usd_inr": 94.25,
       "new_headlines": 0,
       "summary": "*Educational simulation only.*\n\n* **Regime & Volatility:** The RISK-OFF DEFENSIVE regime reflects severe 30D max drawdowns (-23.74% to -34.32%), elevated annualized volatility (42.2%\u201356.4%), and deepl"
+    },
+    {
+      "timestamp_utc": "2026-11-15T17:16:26.021023+00:00",
+      "regime": "RISK-OFF DEFENSIVE",
+      "annualized_vol_pct": 50.87,
+      "usd_inr": 94.25,
+      "new_headlines": 0,
+      "summary": "*Educational simulation only.*\n\n* **Regime & Volatility:** Risk-off defensive posture driven by heavy 30D drawdowns (-20.6% to -31.8%) and elevated annualized volatility (42%\u201357%). Extremely depressed"
     }
   ],
   "seen_headline_ids": [
     "14469675"
   ],
-  "total_runs": 3,
-  "last_run_utc": "2026-11-15T16:53:22.622158+00:00"
+  "total_runs": 4,
+  "last_run_utc": "2026-11-15T17:16:26.021023+00:00"
 }
