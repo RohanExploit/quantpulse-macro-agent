@@ -1,0 +1,26 @@
+{
+  "agent_name": "QuantPulse Macro Strategist",
+  "regime_history": [
+    {
+      "timestamp_utc": "2026-11-15T16:45:44.758927+00:00",
+      "regime": "RISK-OFF DEFENSIVE",
+      "annualized_vol_pct": 50.87,
+      "usd_inr": 94.25,
+      "new_headlines": 1,
+      "summary": "### QuantPulse Macro Regime Briefing (`RISK-OFF DEFENSIVE`)\n- **FX & Liquidity Anchor**: `USD/INR = 94.25` | Lead tracked asset `BITCOIN` at `$64,577.44` (`-20.8%` 30D, RSI `21.0`).\n- **Sentiment Crit"
+    },
+    {
+      "timestamp_utc": "2026-11-15T16:47:05.961041+00:00",
+      "regime": "RISK-OFF DEFENSIVE",
+      "annualized_vol_pct": 51.0,
+      "usd_inr": 94.25,
+      "new_headlines": 0,
+      "summary": "### QuantPulse Macro Regime Briefing (`RISK-OFF DEFENSIVE`)\n- **FX & Liquidity Anchor**: `USD/INR = 94.25` | Lead tracked asset `BITCOIN` at `$64,647.74` (`-20.7%` 30D, RSI `21.2`).\n- **Sentiment Crit"
+    }
+  ],
+  "seen_headline_ids": [
+    "14469675"
+  ],
+  "total_runs": 2,
+  "last_run_utc": "2026-11-15T16:47:05.961041+00:00"
+}
