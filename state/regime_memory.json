@@ -32,11 +32,19 @@
       "usd_inr": 94.25,
       "new_headlines": 0,
       "summary": "*Educational simulation only.*\n\n* **Regime & Volatility:** Risk-off defensive posture driven by heavy 30D drawdowns (-20.6% to -31.8%) and elevated annualized volatility (42%\u201357%). Extremely depressed"
+    },
+    {
+      "timestamp_utc": "2026-11-16T05:24:02.812482+00:00",
+      "regime": "RISK-OFF DEFENSIVE",
+      "annualized_vol_pct": 52.0,
+      "usd_inr": 94.25,
+      "new_headlines": 0,
+      "summary": "*Educational Simulation Only.*\n\n*   **Regime & Volatility:** The market is in a \"Risk-Off Defensive\" state, characterized by significant negative momentum (avg. -25% 30D returns) and elevated realized"
     }
   ],
   "seen_headline_ids": [
     "14469675"
   ],
-  "total_runs": 4,
-  "last_run_utc": "2026-11-15T17:16:26.021023+00:00"
+  "total_runs": 5,
+  "last_run_utc": "2026-11-16T05:24:02.812482+00:00"
 }
