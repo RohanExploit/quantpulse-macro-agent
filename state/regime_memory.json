@@ -48,11 +48,19 @@
       "usd_inr": 93.93,
       "new_headlines": 0,
       "summary": "*Educational simulation only.*\n\n*   **Regime & Volatility:** The market is in a deep \"Risk-Off\" liquidation phase. Assets exhibit high realized volatility (42%\u201357%) coupled with extreme negative momen"
+    },
+    {
+      "timestamp_utc": "2026-11-17T07:02:32.592504+00:00",
+      "regime": "RISK-OFF DEFENSIVE",
+      "annualized_vol_pct": 52.07,
+      "usd_inr": 93.93,
+      "new_headlines": 0,
+      "summary": "**Educational Simulation Only.**\n\n*   **Regime & Volatility:** Crypto markets are in a deep risk-off phase, characterized by sharp 30-day drawdowns (avg. -28%) and aggressive volatility expansion. RSI"
     }
   ],
   "seen_headline_ids": [
     "14469675"
   ],
-  "total_runs": 6,
-  "last_run_utc": "2026-11-16T18:04:36.266186+00:00"
+  "total_runs": 7,
+  "last_run_utc": "2026-11-17T07:02:32.592504+00:00"
 }
