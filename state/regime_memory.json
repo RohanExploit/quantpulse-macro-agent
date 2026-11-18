@@ -64,11 +64,19 @@
       "usd_inr": 93.48,
       "new_headlines": 0,
       "summary": "**Educational Simulation Only.**\n\n*   **Regime & Volatility:** Crypto markets are in a high-beta \"Risk-Off\" regime, evidenced by severe 30-day drawdowns (up to -34.3%) and elevated annualized volatili"
+    },
+    {
+      "timestamp_utc": "2026-11-18T06:27:21.825401+00:00",
+      "regime": "RISK-OFF DEFENSIVE",
+      "annualized_vol_pct": 53.03,
+      "usd_inr": 93.48,
+      "new_headlines": 0,
+      "summary": "**Educational Simulation Only.**\n\n*   **Regime & Volatility:** Crypto markets are in a deep \"Risk-Off Defensive\" state, defined by massive -20% to -28% monthly drawdowns and elevated annualized volati"
     }
   ],
   "seen_headline_ids": [
     "14469675"
   ],
-  "total_runs": 8,
-  "last_run_utc": "2026-11-17T17:28:28.013358+00:00"
+  "total_runs": 9,
+  "last_run_utc": "2026-11-18T06:27:21.825401+00:00"
 }
