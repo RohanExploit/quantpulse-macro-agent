@@ -88,11 +88,19 @@
       "usd_inr": 93.44,
       "new_headlines": 0,
       "summary": "**Educational Simulation Only**\n\n*   **Regime & Volatility:** Crypto assets exhibit a \"Risk-Off\" regime characterized by deep drawdown cycles (-25% to -34%) and elevated realized volatility, signaling"
+    },
+    {
+      "timestamp_utc": "2026-11-19T17:10:25.813292+00:00",
+      "regime": "RISK-OFF DEFENSIVE",
+      "annualized_vol_pct": 52.6,
+      "usd_inr": 93.3,
+      "new_headlines": 0,
+      "summary": "**Educational Simulation Only.**\n\n*   **Regime & Volatility:** The market is in a deep \"Risk-Off\" liquidation phase. With 30-day returns down ~25-31% and annualized volatility surging, realized varian"
     }
   ],
   "seen_headline_ids": [
     "14469675"
   ],
-  "total_runs": 11,
-  "last_run_utc": "2026-11-19T06:28:28.912524+00:00"
+  "total_runs": 12,
+  "last_run_utc": "2026-11-19T17:10:25.813292+00:00"
 }
