@@ -96,11 +96,19 @@
       "usd_inr": 93.3,
       "new_headlines": 0,
       "summary": "**Educational Simulation Only.**\n\n*   **Regime & Volatility:** The market is in a deep \"Risk-Off\" liquidation phase. With 30-day returns down ~25-31% and annualized volatility surging, realized varian"
+    },
+    {
+      "timestamp_utc": "2026-11-20T06:15:03.035669+00:00",
+      "regime": "RISK-OFF DEFENSIVE",
+      "annualized_vol_pct": 52.17,
+      "usd_inr": 93.3,
+      "new_headlines": 0,
+      "summary": "Educational simulation only.\n\n*   **Regime & Volatility:** The market exhibits a \"Risk-Off Defensive\" regime, characterized by extreme negative 30D momentum (avg. -29.3%) and elevated realized volatil"
     }
   ],
   "seen_headline_ids": [
     "14469675"
   ],
-  "total_runs": 12,
-  "last_run_utc": "2026-11-19T17:10:25.813292+00:00"
+  "total_runs": 13,
+  "last_run_utc": "2026-11-20T06:15:03.035669+00:00"
 }
