@@ -104,11 +104,19 @@
       "usd_inr": 93.3,
       "new_headlines": 0,
       "summary": "Educational simulation only.\n\n*   **Regime & Volatility:** The market exhibits a \"Risk-Off Defensive\" regime, characterized by extreme negative 30D momentum (avg. -29.3%) and elevated realized volatil"
+    },
+    {
+      "timestamp_utc": "2026-11-20T16:47:50.361019+00:00",
+      "regime": "RISK-OFF DEFENSIVE",
+      "annualized_vol_pct": 54.07,
+      "usd_inr": 92.68,
+      "new_headlines": 0,
+      "summary": "*Educational simulation only.*\n\n*   **Regime & Volatility:** Crypto markets are in a deep \"Risk-Off Defensive\" state, characterized by a synchronized -30% average drawdown. Annualized volatility is sp"
     }
   ],
   "seen_headline_ids": [
     "14469675"
   ],
-  "total_runs": 13,
-  "last_run_utc": "2026-11-20T06:15:03.035669+00:00"
+  "total_runs": 14,
+  "last_run_utc": "2026-11-20T16:47:50.361019+00:00"
 }
