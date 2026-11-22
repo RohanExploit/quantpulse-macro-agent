@@ -136,11 +136,19 @@
       "usd_inr": 92.68,
       "new_headlines": 0,
       "summary": "**Educational Simulation Only**\n\n*   **Regime & Volatility:** Assets are entrenched in a \"Risk-Off\" regime, exhibiting high realized volatility (45%\u201363%) and deep 30-day drawdowns exceeding -27%. Deep"
+    },
+    {
+      "timestamp_utc": "2026-11-22T05:40:09.677214+00:00",
+      "regime": "RISK-OFF DEFENSIVE",
+      "annualized_vol_pct": 56.3,
+      "usd_inr": 92.68,
+      "new_headlines": 0,
+      "summary": "**Educational Simulation Only.**\n\n*   **Regime & Volatility:** The market is in a deep \"Risk-Off\" liquidation phase, evidenced by synchronized double-digit 30-day drawdowns (avg -31.3%) and heightened"
     }
   ],
   "seen_headline_ids": [
     "14469675"
   ],
-  "total_runs": 17,
-  "last_run_utc": "2026-11-21T21:35:10.330820+00:00"
+  "total_runs": 18,
+  "last_run_utc": "2026-11-22T05:40:09.677214+00:00"
 }
