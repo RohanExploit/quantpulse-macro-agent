@@ -152,11 +152,19 @@
       "usd_inr": 92.68,
       "new_headlines": 0,
       "summary": "*Educational Simulation Only.*\n\n*   **Regime & Volatility:** The market exhibits a high-volatility \"RISK-OFF\" state, characterized by a sharp >25% monthly drawdown across digital assets. Annualized vo"
+    },
+    {
+      "timestamp_utc": "2026-11-23T06:24:54.567608+00:00",
+      "regime": "RISK-OFF DEFENSIVE",
+      "annualized_vol_pct": 57.37,
+      "usd_inr": 92.68,
+      "new_headlines": 0,
+      "summary": "*Educational simulation only.*\n\n*   **Regime & Volatility:** The market exhibits a \"Risk-Off Defensive\" posture, characterized by high realized volatility (45%\u201364%) and deep 30-day drawdowns. Current "
     }
   ],
   "seen_headline_ids": [
     "14469675"
   ],
-  "total_runs": 19,
-  "last_run_utc": "2026-11-22T16:00:47.366205+00:00"
+  "total_runs": 20,
+  "last_run_utc": "2026-11-23T06:24:54.567608+00:00"
 }
