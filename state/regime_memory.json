@@ -160,11 +160,19 @@
       "usd_inr": 92.68,
       "new_headlines": 0,
       "summary": "*Educational simulation only.*\n\n*   **Regime & Volatility:** The market exhibits a \"Risk-Off Defensive\" posture, characterized by high realized volatility (45%\u201364%) and deep 30-day drawdowns. Current "
+    },
+    {
+      "timestamp_utc": "2026-11-23T20:00:24.857311+00:00",
+      "regime": "RISK-OFF DEFENSIVE",
+      "annualized_vol_pct": 57.7,
+      "usd_inr": 92.92,
+      "new_headlines": 0,
+      "summary": "**Educational Simulation Only**\n\n* **Regime & Volatility:** Risk-Off Defensive. Assets exhibit severe negative 30-day momentum (-24.25% to -28.69%) and elevated annualized volatility (45.8% to 64.2%),"
     }
   ],
   "seen_headline_ids": [
     "14469675"
   ],
-  "total_runs": 20,
-  "last_run_utc": "2026-11-23T06:24:54.567608+00:00"
+  "total_runs": 21,
+  "last_run_utc": "2026-11-23T20:00:24.857311+00:00"
 }
