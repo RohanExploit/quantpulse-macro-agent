@@ -168,11 +168,19 @@
       "usd_inr": 92.92,
       "new_headlines": 0,
       "summary": "**Educational Simulation Only**\n\n* **Regime & Volatility:** Risk-Off Defensive. Assets exhibit severe negative 30-day momentum (-24.25% to -28.69%) and elevated annualized volatility (45.8% to 64.2%),"
+    },
+    {
+      "timestamp_utc": "2026-11-24T08:56:00.935620+00:00",
+      "regime": "RISK-OFF DEFENSIVE",
+      "annualized_vol_pct": 57.37,
+      "usd_inr": 92.92,
+      "new_headlines": 0,
+      "summary": "*Educational simulation only.*\n\n*   **Regime & Volatility:** The market reflects a Risk-Off state with significant bearish momentum. Realized volatility is elevated (averaging ~57%), necessitating def"
     }
   ],
   "seen_headline_ids": [
     "14469675"
   ],
-  "total_runs": 21,
-  "last_run_utc": "2026-11-23T20:00:24.857311+00:00"
+  "total_runs": 22,
+  "last_run_utc": "2026-11-24T08:56:00.935620+00:00"
 }
