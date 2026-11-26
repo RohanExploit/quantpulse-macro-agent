@@ -192,11 +192,19 @@
       "usd_inr": 92.24,
       "new_headlines": 0,
       "summary": "*EDUCATIONAL SIMULATION ONLY*\n\n* **Regime & Volatility:** Risk-Off Defensive. Severe 30D drawdowns (-25.5% to -31.1%) and oversold RSI readings (16.8\u201328.7) coincide with elevated annualized volatiliti"
+    },
+    {
+      "timestamp_utc": "2026-11-26T07:22:47.434563+00:00",
+      "regime": "RISK-OFF DEFENSIVE",
+      "annualized_vol_pct": 57.73,
+      "usd_inr": 92.24,
+      "new_headlines": 0,
+      "summary": "*Educational simulation only.*\n\n1. **Regime & Volatility:** The market exhibits a definitive Risk-Off regime, evidenced by extreme 30-day drawdowns (-27% to -33%) and localized volatility clustering. "
     }
   ],
   "seen_headline_ids": [
     "14469675"
   ],
-  "total_runs": 24,
-  "last_run_utc": "2026-11-25T18:32:39.008610+00:00"
+  "total_runs": 25,
+  "last_run_utc": "2026-11-26T07:22:47.434563+00:00"
 }
