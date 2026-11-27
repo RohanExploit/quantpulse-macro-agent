@@ -208,11 +208,19 @@
       "usd_inr": 92.45,
       "new_headlines": 0,
       "summary": "**Educational Simulation Only.**\n\n*   **Regime & Volatility:** The market reflects a Risk-Off Defensive state characterized by extreme compression. Realized 30-day volatility ranges from 46% to 64%, w"
+    },
+    {
+      "timestamp_utc": "2026-11-27T07:18:44.338218+00:00",
+      "regime": "RISK-OFF DEFENSIVE",
+      "annualized_vol_pct": 58.77,
+      "usd_inr": 92.45,
+      "new_headlines": 0,
+      "summary": "*Educational simulation only.*\n\n*   **Regime & Volatility:** The market reflects a Risk-Off Defensive state, evidenced by 30-day drawdowns exceeding -27%. Realized volatility remains elevated (47%\u201365%"
     }
   ],
   "seen_headline_ids": [
     "14469675"
   ],
-  "total_runs": 26,
-  "last_run_utc": "2026-11-26T18:13:05.495449+00:00"
+  "total_runs": 27,
+  "last_run_utc": "2026-11-27T07:18:44.338218+00:00"
 }
